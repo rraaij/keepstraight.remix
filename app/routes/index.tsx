@@ -1,7 +1,7 @@
 export default function Index() {
   return (
     <div className="backdrop-grayscale">
-      <h1 className="text-3xl font-bold underline">Welcome to Remix!</h1>
+      <h1 className="text-3xl font-black">Welcome to Remix!</h1>
       <ul>
         <li className="font-light">
           <a
@@ -9,7 +9,7 @@ export default function Index() {
             href="https://remix.run/tutorials/blog"
             rel="noreferrer"
           >
-            15m Quickstart Blog Tutorial
+            15m Quick
           </a>
         </li>
         <li>
